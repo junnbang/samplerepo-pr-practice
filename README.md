@@ -4,4 +4,8 @@ This repo can be used to practice creating PRs.
 
 Adding more commits!
 
-After merging, Adding more commits!
+After merging, adding more commits! CHANGE LINE to show diff
+
+To test adding comments to other developers PR
+
+Add more stuffs to see if it will be reflected in the PR
